@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "title": "Ask & Listen",
+      "description": "Studying your users' wishes and expectations, doing market research and gap analysis Studying your users' wishes and expectations, doing market research and gap analysis Studying your users' wishes and expectations, doing market research and gap analysis"
+    },
+    {
+      "title": "Analyse & Refine",
+      "description": "Refining and prioritizing the features against the business goals and market capabilities"
+    },
+    {
+      "title": "Plan & Map",
+      "description": "Creating the product development roadmap with milestones and business reasoning"
+    },
+    {
+      "title": "Design",
+      "description": "Developing the UI/UX designs and user journey and validating them with the target audience"
+    },
+    {
+      "title": "Develop",
+      "description": "At eripuit signiferumque sea, vel ad mucius molestie, cu labitur iuvaret vulputate sed."
+    },
+    {
+      "title": "Test",
+      "description": "At eripuit signiferumque sea, vel ad mucius molestie, cu labitur iuvaret vulputate sed."
+    },
+    {
+      "title": "Deploy",
+      "description": "At eripuit signiferumque sea, vel ad mucius molestie, cu labitur iuvaret vulputate sed."
+    },
+    {
+      "title": "Scale & Grow",
+      "description": "At eripuit signiferumque sea, vel ad mucius molestie, cu labitur iuvaret vulputate sed."
+    }
+  ]
+}
