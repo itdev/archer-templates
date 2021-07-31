@@ -1,0 +1,26 @@
+.container {
+  height: auto;
+  width: auto;
+
+  .title {
+    fill: #000000;
+    font-family: Arial, serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: lowercase;
+  }
+
+  .content {
+    .content-title {
+      font-family: Arial, serif;
+      fill: #000000;
+      font-size: 1.5em;
+    }
+
+    .content-description {
+      font-family: Arial, serif;
+      fill: #737B7D;
+      font-size: 0.9em;
+    }
+  }
+}
